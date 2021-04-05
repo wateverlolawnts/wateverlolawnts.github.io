@@ -29,6 +29,7 @@ body {
 
 .overlay h1 {
 	font-size: 65px;
+	text-align: center;
 	margin: 0 0 5px;
 	padding-left: 20px;
 }
