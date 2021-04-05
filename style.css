@@ -43,6 +43,11 @@ body {
 	padding-left: 20px;
 }
 
+.sub-section h2 {
+	text-align: center;
+	padding-left: 20px;
+}
+
 .sub-section p {
 	text-align: left;
 	margin: 20;
@@ -73,10 +78,7 @@ body {
 	  background-color: black;
   }
 
-  .sub-section h2 {
-	  text-align: center;
-	  padding-left: 20px;
-  }
+
 
 /*test footer code*/
  @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
