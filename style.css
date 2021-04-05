@@ -47,6 +47,7 @@ body {
 	margin: 20;
 	font-size: medium;
 	padding-top: 10px;
+	padding-left: 20px;
 	background: white;
 }
 
@@ -58,6 +59,7 @@ body {
   
   /* Clear floats after the columns */
   .row:after {
+	margin: 20px;
 	content: "";
 	display: table;
 	clear: both;
