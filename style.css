@@ -72,6 +72,11 @@ body {
 	  background-color: black;
   }
 
+  .h2 {
+	  text-align: left;
+	  padding-left: 20px ;
+  }
+
 /*#vids {*/
 /*	display: flex;*/
 /*	flex-direction: column;*/
