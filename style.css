@@ -41,6 +41,13 @@ body {
 	padding-left: 20px;
 }
 
+.sub-section p {
+	margin: 0;
+	font-size: medium;
+	padding-top: 10px;
+	background: plum;
+}
+
 /*#vids {*/
 /*	display: flex;*/
 /*	flex-direction: column;*/
