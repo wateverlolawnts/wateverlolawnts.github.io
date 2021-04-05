@@ -80,12 +80,14 @@ body {
 /*test footer code*/
  @import url('https://fonts.googleapis.com/css?family=Rubik&display=swap');
 
+ /*hide body details
  body {
      background: linear-gradient(0deg, #fff, 50%, #DEEEFE);
      font-family:a 'Rubik', sans-serif;
      background: #455A64;
      height: 100 !important
  }
+ */
 
  .container-fluid {
      overflow: hidden;
