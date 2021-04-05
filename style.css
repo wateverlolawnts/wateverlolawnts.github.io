@@ -65,6 +65,13 @@ body {
 	clear: both;
   }
 
+  .footer {
+	  text-align:center;
+	  text-decoration-color: white;
+	  margin: 20px;
+	  background-color: black;
+  }
+
 /*#vids {*/
 /*	display: flex;*/
 /*	flex-direction: column;*/
